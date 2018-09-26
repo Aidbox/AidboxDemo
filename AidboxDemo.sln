@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AidboxDemo", "AidboxDemo\AidboxDemo.csproj", "{CAA74CC7-DF43-46A7-B494-0D6586F2981E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA74CC7-DF43-46A7-B494-0D6586F2981E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA74CC7-DF43-46A7-B494-0D6586F2981E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA74CC7-DF43-46A7-B494-0D6586F2981E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA74CC7-DF43-46A7-B494-0D6586F2981E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2115A3CF-E456-417C-B7EA-DB38362A45F5}
+	EndGlobalSection
+EndGlobal
